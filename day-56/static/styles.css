@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+.top-container {
+    background-color: #7d8fa3;
+    padding-top: 100px;
+    font-size: 2.5rem;
+    position: relative;
+    font-family: "Montserrat", serif;
+    color: #66BFBF;
+    
+}
+
+.middle-container {
+    margin-top: 30px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+}
+
+h1 {
+    line-height: 2;
+    font-size: 5.62rem;
+    margin: 50px auto 0px auto;
+    width: 30%;
+    margin: 0 auto 0 auto;
+    font-family: "Sacramento", serif;
+}
+
+h2 {
+    color: #66BFBF;
+    font-weight: normal;
+    
+}
+
+h3 {
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.skill-row {
+    text-align: left;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+
+.boat-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.game-img {
+    width: 25%;
+    float: right;
+}
+
+hr {
+    margin: 100px auto 100px auto;
+    border-style: none;
+    border-color: #EAF6F6;
+    border-top-style: dotted;
+    border-width: 7px;
+    height: 0px;
+    width: 5%;
+}
